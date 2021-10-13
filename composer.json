@@ -16,6 +16,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "codeigniter4/framework": "dev-master"
+        "codeigniter4/framework": "dev-master",
+        "ext-json": "*"
     }
 }
