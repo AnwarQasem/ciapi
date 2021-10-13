@@ -1,0 +1,21 @@
+{
+    "name": "anwarqasem/ciapi",
+    "description": "dynamic REST API",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Anwarqasem\\Ciapi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Anwar Subhi",
+            "email": "anwar.subhi@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "codeigniter4/framework": "dev-master"
+    }
+}
